@@ -6,6 +6,7 @@ A [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&l
 
 A feew [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) you might have come across in Ruatau include:  
 *Tūwhitia te hopo, mairangatia te angitū*: feel the fear and do it anyway!  
+
 *Ko te manu e kai ana i te miro, nōna te ngahere; ko te manu e kai ana i te mātauranga, nōna te ao*: the bird that partakes of the miro berry has reign of the forest; the bird that partakes of knowledge has reign of the world.  
 
 Some distinguish [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) where the ultimate author is unknown from [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki), where the author is known. One well-known [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki) is from [Tā Aparina Ngata](https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa):  
