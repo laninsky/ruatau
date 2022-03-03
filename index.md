@@ -12,6 +12,9 @@ This project is being led by Alana Alexander (Ngāpuhi: Te Hikutu, Pākehā), Ca
 ### How did this project come about?
 Catherine and Alana attended the [SING Indigenous Genomics Conference](https://www.singaotearoa.nz/singconference-2020) back in 2020. Although super inspiring to hear all the [*kairangahau Māori*](https://translate.google.com/?hl=mi&sl=mi&tl=en&text=kairangahau%20M%C4%81ori&op=translate) standing strong in their [*Māoritanga*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maoritanga) (Māoriness), it also made both of them feel a bit [*whakamā*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakam%C4%81) (embarrassed) about their own cultural connections. They started brain-storming about what they could do to be of service to [*hapori Māori*](https://translate.google.com/?hl=mi&sl=mi&tl=en&text=hapori%20M%C4%81ori&op=translate) (Māori communities), and from these initial [*kōrero*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=k%C5%8Drero) (discussions), Rautau was born.
 
+### He aha te tikanga o te ingoa? What is the meaning of the name?
+
+
 ### Formatting
 [*Kupu*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=kupu) (words) in [*te reo*](https://translate.google.com/?hl=mi&sl=mi&tl=en&text=te%20reo&op=translate) Māori (the Māori languaged) are rendered in italics, with links that will take you to the [*tikanga*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tikanga) (meanings) of the words. In most cases, a translation will also be provided at least the first time a kupu is used on a page. Remember kupu can have multiple meanings!  
 
