@@ -4,7 +4,7 @@ On this [*whārangi*](https://maoridictionary.co.nz/search?idiom=&phrase=&prover
 ### Whakataukī
 A [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) can be thought of as a proverb. Often these are quite beautiful - or witty - turns of phrase that can be used to describe a situation, or a person. There are many [*rauemi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=rauemi) online about [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) and their importance to [*Te Ao Māori*](https://translate.google.com/?hl=mi&sl=mi&tl=en&text=te%20ao%20M%C4%81ori%0A&op=translate), so have a [*kūkura*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=K%C5%ABkara) (google!).  
 
-A feew [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) you might have come across in Ruatau include:  
+A few [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) you might have come across in Ruatau include:  
 *Tūwhitia te hopo, mairangatia te angitū*: feel the fear and do it anyway!  
 
 *Ko te manu e kai ana i te miro, nōna te ngahere; ko te manu e kai ana i te mātauranga, nōna te ao*: the bird that partakes of the miro berry has reign of the forest; the bird that partakes of knowledge has reign of the world.  
