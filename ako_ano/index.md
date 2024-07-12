@@ -27,3 +27,12 @@ A [*karakia*]([https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan
 * to empower objects, people, and common purposes
 * to remove [*tapu*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tapu)
 * to acknowledge the atua
+
+There are some 'unspoken' rules to karakia, and one of these is audience particpation! The following are common endings to karakia, with the bits spoken by all highlighted in bold:
+* Tūturu ka whakamaua kia tina, **tina**, haumi e, hui e, **tāiki e**!
+* Whano, whano, hara mai te toki, haumi e, hui e, **tāiki e**!
+* Tihei **mauri ora**!
+* **Āmine**
+The 'tāike e' ending denotes [coming together for a sense of shared purpose](https://tearawhiti.wordpress.com/tag/beginners/), 'Tihei mauri ora' traces back to the creation of Hineahuone by Tāne (the (['sneeze of life'](https://teara.govt.nz/en/artwork/5173/tane-breathes-life-into-hineahuone)), and Āmine is often used with Christian karakia.
+
+There are many online resources for learning more about karakia, including [Te Ara](https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/page-4), Dr. Karaitiana Taiuru's [website](https://taiuru.co.nz/karakia-or-cultural-appropriation/), and Ōtākou Whakaihu Waka's [karakia page](https://www.otago.ac.nz/maori/world/te-reo-maori/karakia-prayers).
