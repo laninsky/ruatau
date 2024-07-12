@@ -9,7 +9,7 @@ A few [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&prover
 
 *Ko te manu e kai ana i te miro, nōna te ngahere; ko te manu e kai ana i te mātauranga, nōna te ao*: the bird that partakes of the miro berry has reign of the forest; the bird that partakes of knowledge has reign of the world.  
 
-Some distinguish [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) where the ultimate author is unknown from [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki), where the author is known. One well-known [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki) is from [Tā Aparina Ngata](https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa):  
+Some distinguish [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) where the ultimate author is unknown from [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki), where the author is known. One well-known [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki) is from [Tā Apirana Ngata](https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa):  
 *E tipu e rea mo ngā rā o tō ao  
 Ko tō ringa ki ngā rākau ā te Pakeha Hei ara mō tō tinana  
 Ko tō ngākau ki ngā tāonga a ō tīpuna Māori  
@@ -21,4 +21,9 @@ Your hands to the tools of the Pākehā to provide physical sustenance,
 Your heart to the treasures of your Māori ancestors as a diadem for your brow,  
 Your soul to your God, to whom all things belong.  
 
-
+### Karakia
+A [*karakia*]([https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=karakia)) is an invocation/ incantation/request, often to the [*atua*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=atua), to:
+* safely transverse beginnings and ends (e.g. of [*hui*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=hui))
+* to empower objects, people, and common purposes
+* to remove [*tapu*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tapu)
+* to acknowledge the atua
