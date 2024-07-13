@@ -1,15 +1,15 @@
 # Ngā mihi o te rā!
-On this [*whārangi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=wh%C4%81rangi) (page), you'll find additional detail/links to [*rauemi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=rauemi) (resources) for concepts that you will have come across in our [*wānanga*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=w%C4%81nanga) (hui for learning together). If you haven't yet come across the [introduction page](../index.md), this could be handy for understanding the formatting we use.
+On this [*whārangi*](https://maoridictionary.co.nz/word/10104) (page), you'll find additional detail/links to [*rauemi*](https://maoridictionary.co.nz/word/6599) (resources) for concepts that you will have come across in our [*wānanga*](https://maoridictionary.co.nz/word/9145) ([*hui*](https://maoridictionary.co.nz/word/1528) for learning together). If you haven't yet come across the [introduction page](../index.md), this could be handy for understanding the formatting we use.
 
 ### Whakataukī
-A [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) can be thought of as a proverb. Often these are quite beautiful - or witty - turns of phrase that can be used to describe a situation, or a person. There are many [*rauemi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=rauemi) online about [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) and their importance to [*Te Ao Māori*](https://translate.google.com/?hl=mi&sl=mi&tl=en&text=te%20ao%20M%C4%81ori%0A&op=translate), so have a [*kūkura*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=K%C5%ABkara) (google!).  
+A [*whakataukī*](https://maoridictionary.co.nz/word/9903) can be thought of as a proverb. Often these are quite beautiful - or witty - turns of phrase that can be used to describe a situation, or a person. There are many [*rauemi*](https://maoridictionary.co.nz/word/6599) online about [*whakataukī*](https://maoridictionary.co.nz/word/9903) and their importance to [*Te Ao Māori*](https://translate.google.com/?hl=mi&sl=mi&tl=en&text=te%20ao%20M%C4%81ori%0A&op=translate), so have a [*kūkura*](https://maoridictionary.co.nz/word/43980) (google!).  
 
-A few [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) you might have come across in Ruatau include:  
+A few [*whakataukī*](https://maoridictionary.co.nz/word/9903) you might have come across in Ruatau include:  
 *Tūwhitia te hopo, mairangatia te angitū*: feel the fear and do it anyway!  
 
 *Ko te manu e kai ana i te miro, nōna te ngahere; ko te manu e kai ana i te mātauranga, nōna te ao*: the bird that partakes of the miro berry has reign of the forest; the bird that partakes of knowledge has reign of the world.  
 
-Some distinguish [*whakataukī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB) where the ultimate author is unknown from [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki), where the author is known. One well-known [*whakatauakī*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauaki) is from [Tā Apirana Ngata](https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa):  
+Some distinguish [*whakataukī*](https://maoridictionary.co.nz/word/9903) where the ultimate author is unknown from [*whakatauakī*](https://maoridictionary.co.nz/word/9899), where the author is known. One well-known [*whakatauakī*](https://maoridictionary.co.nz/word/9899) is from [Tā Apirana Ngata](https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa):  
 *E tipu e rea mo ngā rā o tō ao  
 Ko tō ringa ki ngā rākau ā te Pakeha Hei ara mō tō tinana  
 Ko tō ngākau ki ngā tāonga a ō tīpuna Māori  
@@ -22,10 +22,10 @@ Your heart to the treasures of your Māori ancestors as a diadem for your brow,
 Your soul to your God, to whom all things belong.  
 
 ### Karakia
-A [*karakia*]([https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=whakatauk%C4%AB](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=karakia)) is an invocation/ incantation/request, often to the [*atua*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=atua), to:
-* safely transverse beginnings and ends (e.g. of [*hui*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=hui))
+A [*karakia*](https://maoridictionary.co.nz/word/2275) is an invocation/ incantation/request, often to the [*atua*](https://maoridictionary.co.nz/word/494), to:
+* safely transverse beginnings and ends (e.g. of [*hui*](https://maoridictionary.co.nz/word/1528))
 * to empower objects, people, and common purposes
-* to remove [*tapu*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tapu)
+* to remove [*tapu*](https://maoridictionary.co.nz/word/7504)
 * to acknowledge the atua
 
 There are some 'unspoken' rules to karakia, and one of these is audience particpation! The following are common endings to karakia, with the bits spoken by all highlighted in bold:
