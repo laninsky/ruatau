@@ -36,3 +36,17 @@ There are some 'unspoken' rules to karakia, and one of these is audience particp
 The 'tāike e' ending denotes [coming together for a sense of shared purpose](https://tearawhiti.wordpress.com/tag/beginners/), 'Tihei mauri ora' traces back to the creation of Hineahuone by Tāne (the (['sneeze of life'](https://teara.govt.nz/en/artwork/5173/tane-breathes-life-into-hineahuone)), and Āmine is often used with Christian karakia.
 
 There are many online resources for learning more about karakia, including [Te Ara](https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/page-4), Dr. Karaitiana Taiuru's [website](https://taiuru.co.nz/karakia-or-cultural-appropriation/), and Ōtākou Whakaihu Waka's [karakia page](https://www.otago.ac.nz/maori/world/te-reo-maori/karakia-prayers).
+
+### Taonga
+[*Taonga*](https://maoridictionary.co.nz/word/7418) is anything that are treasured or prized. This can include:
+* man-made objects
+* aspects of [*te*](https://maoridictionary.co.nz/word/7876) [*taiao*](https://maoridictionary.co.nz/word/7096) such as [*taonga species*](), natural resources (e.g. geothermal springs), wahi tapu, and access to [mahinga kai]()
+* people (i.e. tamariki, people with remarkable qualities)
+* attributes, with this whakataukī being a tongue-in-cheek example:
+*He taonga tonu te wareware*: forgetfulness is an enduring treasure
+* cultural treasures such as te reo, tikanga, and mātauranga Māori
+
+Taonga is mentioned in *ko te tuarua* (article 2) of [*Te Tiriti o Waitangi*](https://www.tepapa.govt.nz/discover-collections/read-watch-play/maori/treaty-waitangi/treaty-close/full-text-te-tiriti-o):
+*"Ko te Kuini o Ingarani ka wakarite ka wakaae ki nga Rangatira ki nga hapu - ki nga tangata katoa o Nu Tirani te tino rangatiratanga o o ratou wenua o ratou kainga me o ratou taonga katoa"*: "The Queen of England agrees to protect the Chiefs, the subtribes and all the people of New Zealand in the unqualified exercise of their chieftainship over their lands, villages and all their treasures"
+
+### Mahinga kai
