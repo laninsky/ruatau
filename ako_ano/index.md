@@ -38,7 +38,7 @@ The 'tāike e' ending denotes [coming together for a sense of shared purpose](ht
 There are many online resources for learning more about karakia, including [Te Ara](https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/page-4), Dr. Karaitiana Taiuru's [website](https://taiuru.co.nz/karakia-or-cultural-appropriation/), and Ōtākou Whakaihu Waka's [karakia page](https://www.otago.ac.nz/maori/world/te-reo-maori/karakia-prayers).
 
 ### Taonga
-[*Taonga*](https://maoridictionary.co.nz/word/7418) is anything that are treasured or prized. This can include:
+[*Taonga*](https://maoridictionary.co.nz/word/7418) are anything that are treasured or prized. This can include:
 * man-made objects, both [historical](https://collections.tepapa.govt.nz/topic/1702) and [contemporary](https://timoti.nz/mana-taonga-what-are-those-large-pounamu-taonga-about)
 * aspects of [*te*](https://maoridictionary.co.nz/word/7876) [*taiao*](https://maoridictionary.co.nz/word/7096) such as [taonga species](https://taiuru.co.nz/what-is-a-taonga-species/), natural resources (e.g. [geothermal springs](https://www.sciencelearn.org.nz/resources/1386-restoring-rotorua-s-natural-geothermal-taonga)), [*wahi tapu*](https://maoridictionary.co.nz/word/38847), and access to [mahinga kai](#mahinga-kai)
 * people (i.e. [*tamariki*](https://maoridictionary.co.nz/word/7339), people with remarkable qualities)
