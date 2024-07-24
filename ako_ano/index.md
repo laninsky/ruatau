@@ -41,11 +41,12 @@ There are many online resources for learning more about karakia, including [Te A
 [*Taonga*](https://maoridictionary.co.nz/word/7418) are anything that are treasured or prized. This can include:
 * man-made objects, both [historical](https://collections.tepapa.govt.nz/topic/1702) and [contemporary](https://timoti.nz/mana-taonga-what-are-those-large-pounamu-taonga-about)
 * aspects of [*te*](https://maoridictionary.co.nz/word/7876) [*taiao*](https://maoridictionary.co.nz/word/7096) such as [taonga species](https://taiuru.co.nz/what-is-a-taonga-species/), natural resources (e.g. [geothermal springs](https://www.sciencelearn.org.nz/resources/1386-restoring-rotorua-s-natural-geothermal-taonga)), [*wahi tapu*](https://maoridictionary.co.nz/word/38847), and access to [mahinga kai](#mahinga-kai)
-* people (i.e. [*tamariki*](https://maoridictionary.co.nz/word/7339), people with remarkable qualities)
+* people (e.g. [*tamariki*](https://maoridictionary.co.nz/word/7339), people with remarkable qualities)
 * attributes, with this [whakataukī](#whakataukī) being a tongue-in-cheek example: *He taonga tonu te wareware* (forgetfulness is an enduring treasure)
 * cultural treasures such as [*te*](https://maoridictionary.co.nz/word/7876) [*reo*](https://maoridictionary.co.nz/word/6700), [*tikanga*](https://maoridictionary.co.nz/word/8043), and [*mātauranga*](https://maoridictionary.co.nz/word/3830) Māori
 
-Taonga is mentioned in *ko te tuarua* (article 2) of [Te Tiriti o Waitangi](https://www.tepapa.govt.nz/discover-collections/read-watch-play/maori/treaty-waitangi/treaty-close/full-text-te-tiriti-o):
-*"Ko te Kuini o Ingarani ka wakarite ka wakaae ki nga Rangatira ki nga hapu - ki nga tangata katoa o Nu Tirani te tino rangatiratanga o o ratou wenua o ratou kainga me o ratou taonga katoa"*: "The Queen of England agrees to protect the Chiefs, the subtribes and all the people of New Zealand in the unqualified exercise of their chieftainship over their lands, villages and all their treasures"
+Taonga is mentioned in *ko te tuarua* (article 2) of [Te Tiriti o Waitangi](https://www.tepapa.govt.nz/discover-collections/read-watch-play/maori/treaty-waitangi/treaty-close/full-text-te-tiriti-o):  
+*"Ko te Kuini o Ingarani ka wakarite ka wakaae ki nga Rangatira ki nga hapu - ki nga tangata katoa o Nu Tirani te tino rangatiratanga o o ratou wenua o ratou kainga me o ratou taonga katoa"*  
+"The Queen of England agrees to protect the Chiefs, the subtribes and all the people of New Zealand in the unqualified exercise of their chieftainship over their lands, villages and all their treasures"
 
 ### Mahinga kai
