@@ -42,8 +42,14 @@ https://www.elocal.co.nz/Articles/2410
 ### He Whakaputanga
 https://www.nzgeo.com/stories/a-sovereign-act/
 
+### Te Tiriti o Waitangi, The Treaty of Waitangi, and "treaty principles"
+https://e-tangata.co.nz/comment-and-analysis/carwyn-jones-the-treaty-bill-is-an-act-of-extreme-bad-faith/   
+
 ### Land loss
 https://www.nzherald.co.nz/nz/whenua-the-key-legal-moments-behind-a-shocking-story-of-maori-land-loss/5I57BZ3MSVEGDLYXUZZOX5FGMU/   
+
+### Hītori
+Henare, M., 2022. [He Whenua Rangatira: a mana Māori history of the early-mid nineteenth century](https://www.auckland.ac.nz/assets/arts/schools/anthropology/rale_08_d_WEB01.pdf). University of Auckland Research in Anthropology and Linguistics electronic series (RALe).  
 
 ### The interface between Indigenous Peoples and science
 Kater, I. 2022. Natural and Indigenous sciences: reflections on an attempt to collaborate. Regional Environmental Change, 22(4), p.109. https://link.springer.com/article/10.1007/s10113-022-01967-3 
