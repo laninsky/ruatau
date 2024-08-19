@@ -9,7 +9,7 @@ A few [*whakataukī*](https://maoridictionary.co.nz/word/9903) you might have co
 
 *Ko te manu e kai ana i te miro, nōna te ngahere; ko te manu e kai ana i te mātauranga, nōna te ao*: the bird that partakes of the miro berry has reign of the forest; the bird that partakes of knowledge has reign of the world.  
 
-Some distinguish [*whakataukī*](https://maoridictionary.co.nz/word/9903) where the ultimate author is unknown from [*whakatauakī*](https://maoridictionary.co.nz/word/9899), where the author is known. One well-known [*whakatauakī*](https://maoridictionary.co.nz/word/9899) is from [Tā Apirana Ngata](https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa):  
+Some distinguish [*whakataukī*](https://maoridictionary.co.nz/word/9903) where the ultimate author is unknown from [*whakatauākī*](https://maoridictionary.co.nz/word/9899), where the author is known. One well-known [*whakatauākī*](https://maoridictionary.co.nz/word/9899) is from [Tā Apirana Ngata](https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa):  
 *E tipu e rea mo ngā rā o tō ao  
 Ko tō ringa ki ngā rākau ā te Pakeha Hei ara mō tō tinana  
 Ko tō ngākau ki ngā tāonga a ō tīpuna Māori  
